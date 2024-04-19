@@ -1,0 +1,12 @@
+.loginPage{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_mTv-KX-k4JK-nd2L3xklQj3U3AQDO6LHGiQ1vEZDSwuO0cCSdmArHE209H5EnOC5CfE&usqp=CAU);
+    background: linear-gradient(rgba(11,11,11,0.5), rgba(10,10,10,0.5)), url(https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/image/rDtN98Qoishumwih/blurred-water-background_MkDDmPqu_thumb.jpg);
+    background-position:center ;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
+
+.loginForm {
+    background-color: rgb(36, 43, 40);
+    color: white;
+}
